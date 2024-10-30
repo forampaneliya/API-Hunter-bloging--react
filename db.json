@@ -1,0 +1,76 @@
+{
+  "blog": [
+    {
+      "id": "7cad",
+      "image": "https://img.etimg.com/photo/103941480.cms",
+      "blogrname": "Times of India",
+      "title": "ICC Women's T20 World Cup: How the result of New Zealand vs Australia will impact India's semi-final chances",
+      "category": "Sports",
+      "description": "India's women's cricket team faces a challenging path in the ..\n\nRead more at:\nhttp://timesofindia.indiatimes.com/articleshow/114033586.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst"
+    },
+    {
+      "id": "32a8",
+      "title": "Election Results 2024 Live: BJP poised for historic third term in Haryana, NC-Congress alliance likely to form govt in Jammu and Kashmir",
+      "category": "Business",
+      "description": "Election Results 2024 Live Updates: With early trends coming in, Jammu and Kashmir seems to be going the Congress-National Conference’s way but it’s a very close contest in Haryana, where the Congress is giving a tough fight to the BJP which is looking to return to power for a third time in row",
+      "blogrname": "The Indian Express",
+      "image": "https://iacache.epapr.in/read/imageapi/coverforissue/2611864/newspaper/600"
+    },
+    {
+      "id": "3c26",
+      "image": "https://drop.ndtv.com/albums/SPORTS/team-india-s-fi_638636545522424880/638636545559888181.jpeg",
+      "blogrname": "Sports india",
+      "description": "NEW DELHI: The Indian women's cricket team,  ..\n\nRead more at:\nhttp://timesofindia.indiatimes.com/articleshow/114033586.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst",
+      "sub": "India managed to keep their hopes alive with a comfortable bu ..  Read more at: http://timesofindia.indiatimes.com/articleshow/114033586.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst",
+      "title": "The Indian Women's T20 team must not only defeat Sri Lanka but do so decisively to boost their net run-rate ahead of their critical match against Australia",
+      "category": "Sports"
+    },
+    {
+      "id": "1c3e",
+      "category": "Business",
+      "title": "The Indian Women's T20 team must not only defeat Sri Lanka b ..  Read more at: http://timesofindia.indiatimes.com/articleshow/114008165.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst",
+      "blogrname": "Sports india",
+      "image": "https://drop.ndtv.com/albums/SPORTS/champions-leagu_638622731278209063/638622731297989366.jpeg",
+      "description": "So, yeah there is excitement to do that on that day because  ..\n\nRead more at:\nhttp://timesofindia.indiatimes.com/articleshow/114008165.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst",
+      "sub": "With the advent of Artificial Intelligence (AI), the platfor ..  Read more at: http://timesofindia.indiatimes.com/articleshow/113897588.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst"
+    }
+  ],
+  "categories": [
+    {
+      "id": "202d",
+      "category": "Entertainment",
+      "image":"https://etimg.etb2bimg.com/photo/81478822.cms"
+    },
+    {
+      "id": "aa17",
+      "category": "Technology",
+      "image":"https://t4.ftcdn.net/jpg/03/14/92/75/360_F_314927575_yqFMAuXFTNC6gBflR2njRZ4bQb8dAb7y.jpg"
+    },
+    {
+      "id": "aa17",
+      "category": "Sports",
+      "image":"https://img.freepik.com/free-photo/sports-tools_53876-138077.jpg"
+    },
+    {
+      "id": "aa17",
+      "category": "Business",
+      "image":"https://img.freepik.com/free-photo/aerial-view-business-team_53876-124515.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1728345600&semt=ais_hybrid"
+    },
+    {
+      "id": "aa17",
+      "category": "Health",
+      "image":"https://www.shutterstock.com/image-illustration/top-view-medical-stethoscope-icon-260nw-2075382679.jpg"
+    },
+    {
+      "id": "aa17",
+      "category": "Science",
+      "image":"https://static.vecteezy.com/system/resources/thumbnails/022/696/127/small_2x/generative-ai-illustration-of-science-and-biotechnology-concept-growing-of-plant-in-laboratory-photo.jpg"
+    },
+    {
+      "id": "aa17",
+      "category": "Politics",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMiCtNz_9pQj3TagDjC-u5CxhSFIcMOqA_mw&s"
+    }
+   
+  ]
+}
